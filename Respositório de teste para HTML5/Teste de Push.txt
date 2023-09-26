@@ -1,0 +1,1 @@
+Fazendo o meu primeiro documento dentro de uma pasta do Git para realização do Push!
